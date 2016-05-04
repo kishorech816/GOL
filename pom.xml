@@ -5,7 +5,7 @@
   <groupId>com.effectivemaven.centrepoint</groupId>
   <artifactId>centrepoint</artifactId>
   <packaging>pom</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <description>
     Centrepoint is a basic but useful application that sets up a dashboard of project information from Maven, Archiva and Continuum.
   </description>
