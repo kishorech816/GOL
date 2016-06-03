@@ -4,7 +4,7 @@
   <parent>
     <groupId>com.effectivemaven.centrepoint</groupId>
     <artifactId>centrepoint</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
   </parent>
   <artifactId>store-api</artifactId>
   <name>Centrepoint Data Store API</name>
